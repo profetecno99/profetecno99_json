@@ -1,10 +1,17 @@
 {
+  "pedidos":[
+    
 {
-"nombre" : "pepe",
-"edad" : 12
-}
+"id" : "1",
+"piezas" : "A6"
+},
 {
-"nombre" : "jose",
-"edad" : 22
+"id" : "1",
+"piezas" : "B6"
+},
+ {
+"id" : "2",
+"piezas" : "C6"
 }
+  ]
 }
