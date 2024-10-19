@@ -4,15 +4,18 @@
     [
 {
 "id" : "1",
-"piezas" : "A6"
+"piezas" : "A6",
+"hecho": false
 },
 {
 "id" : "1",
-"piezas" : "B6"
+"piezas" : "B6",
+"hecho": false
 },
  {
 "id" : "2",
-"piezas" : "C6"
+"piezas" : "C6",
+"hecho": false
 }
     ]
 }
